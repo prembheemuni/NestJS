@@ -1,5 +1,8 @@
 # NestJS
 
+```npm i -g @nestjs/cli```
+```nest new project-name```
+
 ### Modules
  - App is the root module, we can create any modules and we should place them in app modules imports[], basically we are registering our module in app module
  - App module is responsible for creating dependency tree.
